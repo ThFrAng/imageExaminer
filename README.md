@@ -16,9 +16,9 @@ Constructor :
 <br>
 **ImageExaminer(images : array, CENTERIMAGE : bool, DISPLAYHELPER : bool)**
 <br>
-images - array of the images to display
-    those images should have top, left, width, height styles initialized in the HMTL or CSS file
-CENTERIMAGE - if the image is bigger than the viewport, whether or not to center it on first load
-DISPLAYHELPER - whether to display or not an helper screen to help user to use the examiner
-
+images - array of the images to display<br>
+    those images should have top, left, width, height styles initialized in the HMTL or CSS file<br>
+CENTERIMAGE - if the image is bigger than the viewport, whether or not to center it on first load<br>
+DISPLAYHELPER - whether to display or not an helper screen to help user to use the examiner<br>
+<br><br>
 more settings can be tweaked in the js file.
