@@ -17,7 +17,7 @@ Constructor :
 **ImageExaminer(images : array, CENTERIMAGE : bool, DISPLAYHELPER : bool)**
 <br><br>
 images - array of the images to display<br>
-    those images should have top, left, width, height styles initialized in the HMTL or CSS file
+    &nbsp;those images should have top, left, width, height styles initialized in the HMTL or CSS file
 <br><br>
 CENTERIMAGE - if the image is bigger than the viewport, whether or not to center it on first load
 <br><br>
