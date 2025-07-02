@@ -1,3 +1,11 @@
+/*
+        ThFrAng
+        2025
+
+https://github.com/ThFrAng/imageExaminer/
+
+*/
+
 export default class ImageExaminer {
     constructor(images, CENTERIMAGE = 1, DISPLAYHELPER = 1) {
         
