@@ -11,14 +11,16 @@ const img4 = document.getElementById("img4");
 
 const imageExaminer = new ImageExaminer([img1, img2, img3, img4], 1, 1);
 ````
-<br><br>
+<br><br><br>
 Constructor :
 <br>
 **ImageExaminer(images : array, CENTERIMAGE : bool, DISPLAYHELPER : bool)**
-<br>
+<br><br>
 images - array of the images to display<br>
-    those images should have top, left, width, height styles initialized in the HMTL or CSS file<br>
-CENTERIMAGE - if the image is bigger than the viewport, whether or not to center it on first load<br>
+    those images should have top, left, width, height styles initialized in the HMTL or CSS file
+<br><br>
+CENTERIMAGE - if the image is bigger than the viewport, whether or not to center it on first load
+<br><br>
 DISPLAYHELPER - whether to display or not an helper screen to help user to use the examiner<br>
 <br><br>
 more settings can be tweaked in the js file.
